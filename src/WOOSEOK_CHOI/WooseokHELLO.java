@@ -10,7 +10,7 @@ public class WooseokHELLO {
 		System.out.println("졸리다");
 		System.out.println("日本語の勉強頑張りましょう");
 		System.out.println("일본어 공부 열심히합시다");
-		
+		System.out.println("いやだ");
 	}
 
 }
