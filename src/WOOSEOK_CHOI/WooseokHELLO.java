@@ -7,6 +7,7 @@ public class WooseokHELLO {
 		System.out.println("Hello Kim-minjun Team!!");
 		System.out.println("My name is Choi Wooseok");
 		System.out.println("저는 김시원인데용");
+		System.out.println("졸리다");
 	}
 
 }
