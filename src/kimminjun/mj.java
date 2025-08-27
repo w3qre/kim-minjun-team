@@ -7,6 +7,8 @@ public class mj {
 		System.out.println("한미옥 청담본점 ");
 		System.out.println("みんじゅい");
 		System.out.println("배고프다 오늘 나 점심 같이 못먹을듯");
+		System.out.println("이쁜이 어디 없나~~~~~~~~~~");
+		
 	}
 }
 
