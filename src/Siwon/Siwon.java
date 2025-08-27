@@ -10,7 +10,11 @@ public class Siwon {
 		//막 수정해 막 수정해-250827_최우석
 
 		System.out.println("개어렵노");
+<<<<<<< HEAD
 		System.out.println("시호쌤 개귀엽다 ㅇㅈ?");
+=======
+		
+>>>>>>> branch 'master' of https://github.com/w3qre/kim-minjun-team.git
 		
 	}
 }
